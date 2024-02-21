@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: limegreen;
+}
+
+div {
+    border: solid white 3px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 670px;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+
+}
+
